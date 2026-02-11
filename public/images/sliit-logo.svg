@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8fafc"/>
+  <rect x="100" y="80" width="200" height="140" fill="#0ea5e9" opacity="0.2" rx="10"/>
+  <text x="200" y="130" font-family="Arial, sans-serif" font-size="32" fill="#0c4a6e" text-anchor="middle" font-weight="bold">SLIIT</text>
+  <text x="200" y="165" font-family="Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Sri Lanka Institute of</text>
+  <text x="200" y="185" font-family="Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Information Technology</text>
+</svg>
